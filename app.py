@@ -81,6 +81,6 @@ if st.button("🔍 Prediksi Pembelian"):
 st.markdown("""
     <hr style="border: 1px solid #00FFFF;">
     <center>
-        <small>🚀 Developed with ❤️ using Streamlit | Theme: HUD Futuristic</small>
+        <small>🚀 Developed with ❤️ using Streamlit | Create by arielshakaramiro</small>
     </center>
 """, unsafe_allow_html=True)
